@@ -1,5 +1,7 @@
 ### Hi there 👋
-Quine code:- [![omwadera's GitHub | Stats](https://stats.quine.sh/omwadera/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=omwadera)
+Quine stats:- [![omwadera's GitHub | Stats](https://stats.quine.sh/omwadera/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=omwadera)
+
+Qine dependencies:- [![omwadera's GitHub | Dependencies](https://stats.quine.sh/omwadera/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=omwadera)
 <!--
 **omwadera/omwadera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
